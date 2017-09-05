@@ -1,0 +1,11 @@
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\bin\Debug\TestTaskFolderSerialization.exe
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\bin\Debug\TestTaskFolderSerialization.exe.config
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.DeserializeForm.resources
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.MainForm.resources
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.Properties.Resources.resources
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.SerializeFileNameForm.resources
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.csproj.GenerateResource.Cache
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.exe
+c:\users\nazar\documents\visual studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.pdb
+C:\Users\nazar\Documents\Visual Studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\obj\Debug\TestTaskFolderSerialization.csprojResolveAssemblyReference.cache
+C:\Users\nazar\Documents\Visual Studio 2017\Projects\TestTaskFolderSerialization\TestTaskFolderSerialization\bin\Debug\TestTaskFolderSerialization.pdb
